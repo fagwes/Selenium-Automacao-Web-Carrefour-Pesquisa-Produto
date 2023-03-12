@@ -1,7 +1,7 @@
 #Author: Wesley de França Amorim Gomes
 
 @Testes
-Feature: dado que eu esteja logado
+Feature: dado que eu não esteja logado
   eu quero selecionar um produto dentro do site
 
   @teste
