@@ -1,4 +1,4 @@
-#Author: Wesley de França AMorim Gomes
+#Author: Wesley de França Amorim Gomes
 
 @Testes
 Feature: dado que eu esteja logado
